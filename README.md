@@ -14,6 +14,10 @@ This project leverages python with the following packages:
 
 * [PyViz](https://github.com/pyviz/pyviz.org) - For plotting with hvplot.
 
+* [alpaca-trade-api](https://github.com/alpacahq/alpaca-trade-api-python) - For financial data from [Alpaca](https://alpaca.markets)
+
+* MCForecastTools - For Monte Carlo simulations. For documentation, use ?MCSimulation
+
 ---
 
 ## Installation Guide
