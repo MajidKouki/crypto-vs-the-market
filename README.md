@@ -1,8 +1,6 @@
-# README.MD TEMPLATE
-
 # Crypto vs the Market
 
-Description
+This project is a comprehensive analysis of Bitcoin and the S&P 500. The purpose of this project is to identify which of these two assets would be the most profitable to invest in. This is determined by analyzing the returns of holding the asset long-term, trading the asset over the same time period using a basic EMA strategy, and analyzing Monte Carlo Simulations to identify possible future movement.
 
 ---
 
@@ -63,13 +61,25 @@ The MCForecastTools.py included contains everything needed for the Monte Carlo s
 
 ## Usage
 
+To use Voila, type the following into the terminal while in the cloned project repository.
 
+```python
+voila crypto-vs-the-market.ipynb
+```
+
+This will deploy the notebook as an interactive web app like the example pictured below.
+
+<img src="./img/voila-1.png" alt="Voila Web App" width="800" height="1000">
 
 ---
 
 ## Contributors
 
-Brought to you by 
+Brought to you by:
+* [Majid](https://github.com/MajidKouki)
+* [Dan](https://github.com/dandmcqueen)
+* [Jason](https://github.com/jasonbucks)
+* [Tracy](https://github.com/emorytk)
 
 ---
 
