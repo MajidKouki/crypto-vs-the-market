@@ -69,7 +69,7 @@ voila crypto-vs-the-market.ipynb
 
 This will deploy the notebook as an interactive web app like the example pictured below.
 
-<img src="./img/voila-1.png" alt="Voila Web App" width="800" height="1000">
+<img src="./imgs/voila-1.png" alt="Voila Web App" width="800" height="1000">
 
 ---
 
